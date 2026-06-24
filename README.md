@@ -1,4 +1,4 @@
-# statics3d
+# statics-solver
 
 A Python library that solves **3D rigid-body equilibrium** problems the kind of work my statics course where I would have to manually set up a system of equations and solve.
 
